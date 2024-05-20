@@ -39,11 +39,7 @@ const Contact = () => {
       </div>
       <div className="contact-section">
         <div className="contact-left">
-          <h1>Echangeons</h1>
-          <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis,
-            fuga quisquam.
-          </p>
+          <h1>Échangeons</h1>
           <div className="contact-details">
             <div className="contact-detail">
               <img src={mail_icon} alt="" /> <p>belbaz.yousra@epitech.eu</p>
@@ -61,7 +57,7 @@ const Contact = () => {
           <input type="text" placeholder="Entrer votre nom" name="name" />
           <label htmlFor="">Votre Mail</label>
           <input type="email" placeholder="Entrer votre mail" name="email" />
-          <label htmlFor="">Ecrivez votre message ici</label>
+          <label htmlFor="">Écrivez votre message ici</label>
           <textarea
             name="message"
             rows="8"

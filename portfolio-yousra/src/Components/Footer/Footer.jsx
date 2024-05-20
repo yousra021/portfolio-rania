@@ -11,10 +11,6 @@ const Footer = () => {
           <img class="footer_logo" src={theme_pattern} alt="theme_pattern" />
 
           <h1>Yousra</h1>
-          <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores ab
-            reiciendis aspernatur est, et minus vitae.
-          </p>
         </div>
         {/* <div className="footer-top-right">
           <div className="footer-email-input">

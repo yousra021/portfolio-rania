@@ -34,7 +34,7 @@ const MyWork = () => {
         </div>
       </div>
       <div className="mywork-showmore">
-        <p>Montrer plus</p>
+        <a href='https://github.com/yousra021'><p>Montrer plus</p></a>
         <img src={arrow_icon} alt="arrow_icon" />
       </div>
     </div>

@@ -67,6 +67,11 @@
   .navbar {
     margin: 20px 50px;
   }
+  .navbar h1 {
+    left: 15px;
+    top: 0px;
+    position: absolute;
+  }
 
   .logo-img {
     position: absolute;
@@ -80,6 +85,7 @@
     display: none;
   }
   .nav-mob-open {
+    top: 25px;
     display: block;
     position: fixed;
     right: 50px;
