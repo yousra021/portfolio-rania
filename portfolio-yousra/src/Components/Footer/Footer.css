@@ -103,6 +103,9 @@
 
   .footer-bottom-right {
     gap: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
   }
 }
 

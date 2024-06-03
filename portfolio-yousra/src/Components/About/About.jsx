@@ -17,16 +17,20 @@ const About = () => {
         <div className="about-right">
           <div className="about-para">
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio
-              dolor molestiae nesciunt sed accusamus quaerat, nostrum error
-              assumenda reiciendis maxime doloribus sequi dolorum suscipit id
-              obcaecati fugit consectetur est quam.
+              J'aime le développement web car chaque projet est une nouvelle
+              aventure, avec ses propres défis à surmonter et des opportunités
+              d'apprentissage infinies. Le développement web est un domaine
+              dynamique où l'innovation est constante, ce qui me motive à rester
+              à jour et à continuer à me perfectionner.
             </p>
             <p>
-              Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iste aut
-              nostrum numquam cumque laboriosam, totam soluta alias veniam?
-              Alias eius, quas vitae dolores natus ut sed error accusamus
-              suscipit consectetur!
+              Je joue aux jeux vidéo depuis que je suis petite, et cette passion
+              m'a naturellement menée vers le développement web. Les deux
+              domaines partagent une combinaison fascinante de créativité et de
+              résolution de problèmes. Le développement web me permet d'exploiter
+              cette passion en transformant des idées en réalités numériques
+              captivantes, tout comme les jeux vidéo ont transformé mon
+              imagination en aventures mémorables
             </p>
           </div>
           <div className="about-skills">
