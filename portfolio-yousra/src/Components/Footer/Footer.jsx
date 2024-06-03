@@ -1,7 +1,6 @@
 import React from "react";
 import "./Footer.css";
 import theme_pattern from "../../assets/theme_pattern.svg";
-import user_icon from "../../assets/user_icon.svg";
 
 const Footer = () => {
   return (
@@ -12,13 +11,6 @@ const Footer = () => {
 
           <h1>Yousra</h1>
         </div>
-        {/* <div className="footer-top-right">
-          <div className="footer-email-input">
-            <img src={user_icon} alt="user_icon" />
-            <input type="email" placeholder="Entrer votre mail" />
-          </div>
-          <div className="footer-subscribe">S'abonner</div>
-        </div> */}
       </div>
       <hr />
       <div className="footer-bottom">

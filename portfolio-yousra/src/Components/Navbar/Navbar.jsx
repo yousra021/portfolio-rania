@@ -21,7 +21,6 @@ const Navbar = () => {
   return (
     <div className="navbar">
       <h1>Yousra</h1>
-      {/* <img class="logo-img" src={theme_pattern} alt="theme_pattern" /> */}
       <img
         src={menu_open}
         onClick={openMenu}
@@ -47,12 +46,6 @@ const Navbar = () => {
           </AnchorLink>
           {menu === "about" ? <img src={underline} alt="" /> : <></>}
         </li>
-        {/* <li>
-          <AnchorLink className="anchor-link" offset={50} href="#services">
-            <p onClick={() => setMenu("services")}>Services</p>
-          </AnchorLink>
-          {menu === "services" ? <img src={underline} alt="" /> : <></>}
-        </li> */}
         <li>
           <AnchorLink className="anchor-link" offset={50} href="#work">
             <p onClick={() => setMenu("work")}>Portfolio</p>
